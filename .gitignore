@@ -102,3 +102,5 @@ echo TestBot-4/ >> .gitignore
 echo research-chart/ >> .gitignore
 echo talib-build-main/ >> .gitignore
 echo templates/ >> .gitignore
+*.xml 
+*.drawio 
