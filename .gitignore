@@ -83,3 +83,22 @@ plot_btc_zoomed.py
 
 # Ignore specific screenshot files
 *Screenshot*.pngThe Talk for The Alpaca Investment.txt 
+
+echo *.jpg >> .gitignore
+echo *.png >> .gitignore
+echo *.pdf >> .gitignore
+echo *.docx >> .gitignore
+echo *.odt >> .gitignore
+echo *.pptx >> .gitignore
+echo *.mkv >> .gitignore
+echo 5 Article Review/ >> .gitignore
+echo Alpaca Zip File/ >> .gitignore
+echo Alpaca/ >> .gitignore
+echo Code Lesson/ >> .gitignore
+echo RESEARCH ARTICLE DRAFT/ >> .gitignore
+echo Template/ >> .gitignore
+echo TestBot-3/ >> .gitignore
+echo TestBot-4/ >> .gitignore
+echo research-chart/ >> .gitignore
+echo talib-build-main/ >> .gitignore
+echo templates/ >> .gitignore
