@@ -1,0 +1,85 @@
+# Ignore temporary and system files
+*.log
+*.tmp
+*.bak
+*.exe
+
+# Ignore environment files
+.env
+
+# Ignore IDE/project files
+.vs/
+*.code-workspace
+
+# Ignore media and document files
+*.jpg
+*.png
+*.pdf
+*.docx
+*.odt
+*.pptx
+*.mkv
+*.zip
+
+# Ignore specific directories
+5 Article Review/
+Alpaca Zip File/
+Alpaca/
+Code Lesson/
+RESEARCH ARTICLE DRAFT/
+Template/
+TestBot-3/
+TestBot-4/
+research-chart/
+talib-build-main/
+templates/
+
+# Ignore specific files
+AI_Investment_Bot_Presentation (1).pptx
+Alpaca Research Investment Chart Presentation.pdf
+Alpaca Research Investment Chart Presentation.pptx
+Alpaca Scrum Plan.txt
+BREAKING NEWS!!!  READ ALL ABOUT IT.txt
+Credits-N-Car.htm
+Credits-N-Car.html
+Daily Income Maker - Alpaca - Investment Chart.jpg
+Final Slide Presentation.odt
+Final Video Presentation For PowerPoint Illustration.odt
+I have a task to create a simple so.txt
+Implementation.txt
+It takes a brain....txt
+New Template For Basic Research Edit.docx
+NewResearchArticleTemplateDraft1FiveArticles.docx
+Outline Of Tasks 1 And 2 Overview.docx
+Outline Of Tasks 1 And 2 Upload.docx
+Outline Of Tasks 1 And 2.odt
+Project Video 2025-04-26 20-50-17.mkv
+Review Of Unit Tests.odt
+Review of 5 Articles With Notes.docx
+Singleton App Project Success.docx
+Singleton App Uninstall Errors.txt
+The Fifteen Articles To Review.txt
+The Talk for The Alpaca Investment Chart Research Article.odt
+Unit Test Video Presentation.odt
+Untitled 1.docx
+Untitled 1.odt
+VIDEO PRESENTATION.odt
+We can do better....txt
+ai-frame.html
+creditsncar.htm
+creditsncar.html
+daily_income_maker.exe
+freecreditsncar.html
+gramma-cp.html
+gramma-lp.html
+hello.c.txt
+stacktrace- error.txt
+simple_chart.html
+plot_btc_zoomed.py
+
+# Ignore diagram and XML files
+*.drawio
+*.xml
+
+# Ignore specific screenshot files
+*Screenshot*.png
